@@ -4,15 +4,14 @@ NewsGuardian is a real-time news verification tool designed to combat misinforma
 
 ## Features
 
-- **Real-Time Analysis:** Analyze news articles in real-time using Phi-2 and GPT-4.
+- **Real-Time Analysis:** Analyze news articles in real-time using Phi-2 .
 - **Fact-Checking:** Fact-check claims and statements against a database of verified sources.
 - **Contextualization:** Provide users with additional context and background information.
-- **Text-to-Speech Integration:** Generate audio summaries of news articles for accessibility.
 
 ## How it Works
 
 1. **Input:** Users input a news article URL or text into the NewsGuardian interface.
-2. **Analysis:** NewsGuardian utilizes Phi-2 and GPT-4 to analyze the content.
+2. **Analysis:** NewsGuardian utilizes Phi-2 to analyze the content.
 3. **Verification:** Cross-references the information against a database of verified sources.
 4. **Output:** Generates a comprehensive report summarizing the analysis and highlighting any misinformation detected.
 
@@ -54,6 +53,5 @@ Contributions are welcome! If you'd like to contribute to NewsGuardian, please f
 
 ## Acknowledgements
 
-- Special thanks to OpenAI for providing access to Phi-2 and GPT-4 models.
-- ClarifAI's models utilized in this project for GPT-4 and text-to-speech capabilities.
+- Special thanks to OpenAI for providing access to Phi-2.
 
