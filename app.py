@@ -3,29 +3,7 @@ from clarifai_grpc.channel.clarifai_channel import ClarifaiChannel
 from clarifai_grpc.grpc.api import resources_pb2, service_pb2, service_pb2_grpc
 from clarifai_grpc.grpc.api.status import status_code_pb2
 
-# Set your Clarifai credentials and model details for NewsGuardian model
-PAT_GPT4 = '3ca5bd8b0f2244eb8d0e4b2838fc3cf1'
-USER_ID_GPT4 = 'openai'
-APP_ID_GPT4 = 'chat-completion'
-MODEL_ID_GPT4 = 'openai-gpt-4-vision'
-MODEL_VERSION_ID_GPT4 = '266df29bc09843e0aee9b7bf723c03c2'
 
-# Set your Clarifai credentials and model details for DALL-E
-PAT_DALLE = 'bfdeb4029ef54d23a2e608b0aa4c00e4'
-USER_ID_DALLE = 'openai'
-APP_ID_DALLE = 'dall-e'
-MODEL_ID_DALLE = 'dall-e-3'
-MODEL_VERSION_ID_DALLE = 'dc9dcb6ee67543cebc0b9a025861b868'
-
-
-
-# Streamlit app
-# Set your Clarifai credentials for NewsGuardian model
-PAT_TTS = 'bfdeb4029ef54d23a2e608b0aa4c00e4'
-USER_ID_TTS = 'openai'
-APP_ID_TTS = 'tts'
-MODEL_ID_TTS = 'openai-tts-1'
-MODEL_VERSION_ID_TTS = 'fff6ce1fd487457da95b79241ac6f02d'
 
 
 # Set up gRPC channel for NewsGuardian model
