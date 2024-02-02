@@ -20,7 +20,7 @@ NewsGuardian is a real-time news verification tool designed to combat misinforma
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Jaweria-B/NewsGuardian.git
+   git clone https://github.com/noorkhokhar99/NewsGuardian.git
    ```
 
 2. Install dependencies:
