@@ -55,5 +55,5 @@ Contributions are welcome! If you'd like to contribute to NewsGuardian, please f
 ## Acknowledgements
 
 - Special thanks to OpenAI for providing access to Phi-2 and GPT-4 models.
-- Text-to-speech models utilized in this project are courtesy of [Model Zoo](https://modelzoo.co/).
+- ClarifAI's models utilized in this project for GPT-4 and text-to-speech capabilities.
 
