@@ -1,9 +1,5 @@
 # NewsGuardian
 
-<p align="center">
-  <a href="https://github.com/Jaweria-B/NewsGuardian.git"><img src="blob:https://colab.research.google.com/93f4861b-d7e5-4eab-9648-9bfd735e9b3a" alt="logo.svg" height="200" width = "200"/></a>
-</p>
-
 NewsGuardian is a real-time news verification tool designed to combat misinformation and enhance news literacy. Leveraging the power of Phi-2, GPT-4, and advanced text-to-speech models, NewsGuardian analyzes and verifies news articles, fact-checks claims, and provides users with reliable sources and context to navigate the news landscape effectively.
 
 ## Features
